@@ -6,6 +6,9 @@
 - ox_lib
 - oxmysql
 
+## Notes
+- on your vehicleshop when buying don't forgot to insert type and job default job for public garage is 'civ'
+
 ## Documentations
 
 - radial menu export
