@@ -1,6 +1,11 @@
 
 # Side Garage V2
 
+## Dependencies
+- es_extended (1.8 Above)
+- ox_lib
+- oxmysql
+
 ## Documentations
 
 - radial menu export
@@ -25,7 +30,7 @@
 - Whitelist Access to Whitelist Impound
 ```lua
 sdpGarage.WhitelistAccess = {
-	'police',
+    'police',
     'mechanic',
     'ambulance',
     'burgershot',
@@ -95,3 +100,7 @@ sdpGarage.Garages = {
 }
 
 ```
+
+## Preview
+![image](https://github.com/sleepyexe/side_garagev2/assets/67649181/fb8dccd8-7e02-4502-8b68-aed56ae7c525)
+![image](https://github.com/sleepyexe/side_garagev2/assets/67649181/f4547228-8d36-4618-9731-0de0dbf4fa52)
